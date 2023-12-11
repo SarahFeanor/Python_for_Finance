@@ -1,4 +1,4 @@
-# Python for Finance
+# Conteudo do Curso  "Python for Finance" da Plataforma Ada Tech
 
 **O professor**: Henrique Assis Cordeiro
 
